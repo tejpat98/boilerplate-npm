@@ -1,5 +1,9 @@
 {
 	"author": "Tejash Patel",
+	"version": "1.0.0",
+	"description": "A project for completing the Back End Development and APIs course.",
+	"keywords": [ "freecodecamp", "fcc", "back-end", "nodejs", "expressjs", "js" ],
+	"license": "MIT",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
